@@ -3,7 +3,7 @@ email: bsm@hi.is
 preposition: at
 description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nordan-conference.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://nordan-conference.github.io/nordan-2025" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 markdown: kramdown
@@ -41,17 +41,17 @@ conference:
     logo:
 #      name: Nordan
       #img: 'compass-icon.svg' # inside /assets/images/
-      url: 'https://nordan-conference.github.io/'
+      url: 'https://nordan-conference.github.io/nordan-2025'
     breakpoint: md
     links:
       - name: Photos
-        relative_url: /photos/
+        relative_url: /nordan-2025/photos/
       - name: Booklets and Program
-        relative_url: /program/
+        relative_url: /nordan-2025/program/
       - name: Location
-        relative_url: /location/
+        relative_url: /nordan-2025/location/
       - name: KAUS
-        relative_url: /kaus/
+        relative_url: /nordan-2025/kaus/
 
 
   # Link Preview for Sharing
@@ -65,7 +65,7 @@ conference:
   # Main landing page
   main:
     logo:
-      img: 'full-logo.svg'
+      img: '/nordan-2025/full-logo.svg'
     links:
       #- name: Program
       #  relative_url: /program/
@@ -124,13 +124,13 @@ conference:
     # Disable links to locations
     hide: true
     # URL of location / room overview page
-    url: '/location'
+    url: '/nordan-2025/location'
     # Main page title shown on location/room navigation bar
     map: false
 
   program:
     # URL of program page
-    url: '/program'
+    url: '/nordan-2025/program'
 
     # Time steps in program table
     time_steps: 15 # in minutes
@@ -141,21 +141,21 @@ conference:
   kaus:
     logo:
       img: 'kaus.svg'
-    url: /kaus
+    url: /nordan-2025/kaus
     title: KAUS 2025
     navigation:
       links:
         - name: Program
-          relative_url: /kaus/program/
+          relative_url: /nordan-2025//kaus/program/
           activatable: true
         - name: Participants
-          relative_url: /kaus/participants/
+          relative_url: /nordan-2025/kaus/participants/
           activatable: true
         - name: Location
-          relative_url: /kaus/location/
+          relative_url: /nordan-2025/kaus/location/
           activatable: true
         - name: NORDAN
-          relative_url: /
+          relative_url: /nordan-2025
           activatable: false
 
 
