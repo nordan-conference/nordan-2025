@@ -146,7 +146,7 @@ conference:
     navigation:
       links:
         - name: Program
-          relative_url: /nordan-2025//kaus/program/
+          relative_url: /nordan-2025/kaus/program/
           activatable: true
         - name: Participants
           relative_url: /nordan-2025/kaus/participants/
