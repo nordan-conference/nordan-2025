@@ -52,20 +52,6 @@ conference:
         relative_url: /location/
       - name: KAUS
         relative_url: /kaus/
-      - name: Registration
-        relative_url: /registration/
-      - name: Previous Editions of Nordan
-        menu:
-          - name: (current)
-            disabled: true
-          - name: 2025
-            relative_url: /2025/
-          - name: 2024
-            relative_url: /2024/
-          - name: 2023
-            relative_url: /2023/
-          - name: 1997-2019
-            relative_url: /1997-2019/
 
 
   # Link Preview for Sharing
@@ -171,8 +157,5 @@ conference:
         - name: NORDAN
           relative_url: /
           activatable: false
-        - name: Previous Editions of KAUS
-          relative_url: /kaus/previous-editions/
-          activatable: true
 
 
