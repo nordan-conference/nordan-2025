@@ -65,7 +65,7 @@ conference:
   # Main landing page
   main:
     logo:
-      img: './nordan-2025/assets/images/full-logo.svg'
+      img: '../../nordan-2025/assets/images/full-logo.svg'
     links:
       #- name: Program
       #  relative_url: /program/
