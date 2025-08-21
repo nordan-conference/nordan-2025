@@ -9,4 +9,5 @@ The KAUS participants will stay the first night in Reykjavík.
 
 
 
-![Leifur](/assets/images/hallgrimskirkja.png)
+![Leifur](/nordan-2025/assets/images/hallgrimskirkja.png)
+
