@@ -12,7 +12,7 @@ Iceland and marks the retirement of Jón Magnússon and Ragnar Sigurðsson. The
 event will take place May 23–25 at Hotel Stracta, located in Hella on the south
 coast of Iceland. In conjunction with Nordan, there will be a KAUS meeting for
 graduate students May 22-23. See more about KAUS
-[here](https://nordan-conference.github.io/nordan-2025/kaus/).
+[here](kaus).
 
 Conference Schedule:
 
@@ -51,10 +51,10 @@ Organizers:
     </div>
     <div class="column" style="width:6%;">
         <div style="width:100%;">
-            <img src="/nordan-2025/assets/images/Takn_blatt.svg" alt="Sigil of the Univeristy of Iceland">
+            <img src="assets/images/Takn_blatt.svg" alt="Sigil of the Univeristy of Iceland">
         </div>
     </div>
 </div>
 
 
-![Hekla](/assets/images/Hekla.png)
+![Hekla](assets/images/Hekla.png)
